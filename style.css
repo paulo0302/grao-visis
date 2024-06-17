@@ -27,7 +27,7 @@
 }
 
 .light .cards div:nth-child(3) img {
-  content: url(assets/Avatar-light.png); /* Substitua com o caminho da imagem clara para Rafael */
+  content: url(assets/avatar-light.png); /* Substitua com o caminho da imagem clara para Rafael */
 }
 
 .light .cards div:nth-child(4) img {
