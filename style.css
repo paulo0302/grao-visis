@@ -43,14 +43,14 @@ body {
 
 .container {
   width: 500px;
-  height: 600px;
-  margin: 33px auto 33px;
+  height: auto;
+  margin: 33px auto;
 }
 
 /* Perfil 1 */
 .cards {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   gap: 20px; /* Espaço entre os itens */
 }
 
